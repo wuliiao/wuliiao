@@ -49,8 +49,22 @@
 
 ---
 
-## GitHub
+## Projects
+
+<details>
+<summary><strong>mf-lab</strong> — Frontend project</summary>
+<br>
+
+* [GitHub Repository](https://github.com/romanov73/mf-lab)
+
+</details>
+
+---
+
+## Contacts
 
 <p align="center">
-  <a href="https://github.com/wuliiao">My GitHub</a>
+  <a href="https://github.com/wuliiao">GitHub</a> |
+  <a href="https://t.me/wuliiao">Telegram</a> |
+  <a href="mailto:safija2005@gmail.com">Email</a>
 </p>
