@@ -40,8 +40,8 @@
 
 ## Education
 
-* **Incomplete higher education**  
-  Expected graduation: **2027**
+* Ulyanovsk State Technical University Sept. 2023 – June 2027 (Expected)
+Bachelor in Software Engineering - Artificial Intelligence and Predictive Analytics track
 
 ---
 
