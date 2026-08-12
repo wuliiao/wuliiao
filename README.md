@@ -1,4 +1,4 @@
-# Hi, I'm Safia Mukhamadieva
+[![Header](header.png)](https://github.com/wuliiao)
 
 <p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
-## About Me
+## [![About Me](about%20me.png)](https://github.com/wuliiao)
 
 * Beginner **Frontend Developer** focused on building web interfaces with React, TypeScript, JavaScript, HTML, and CSS.
 * Interested in clean UI, responsive layouts, component-based development, and practical frontend architecture.
@@ -21,7 +21,7 @@
 
 ---
 
-## Core Skills
+## [![Core Skills](skils.png)](https://github.com/wuliiao)
 
 | Category | Skills |
 |---|---|
@@ -49,7 +49,7 @@
 
 ---
 
-## Projects
+## [![Projects](projects.png)](https://github.com/wuliiao)
 
 <details>
 <summary><strong>mf-lab</strong> — Django web platform for laboratory work</summary>
@@ -64,6 +64,29 @@ Built with Django, HTML templates, SQLite, custom calculation logic, and DOCX/PD
 * [GitHub Repository](https://github.com/romanov73/mf-lab)
 
 </details>
+
+<details>
+<summary><strong>harmony-hub</strong> — Music player with a real-time audio visualizer</summary>
+<br>
+
+Harmony Hub is a frontend music player for uploading, organizing, and playing tracks with a real-time sound wave visualizer. The project focuses on custom playback controls, playlist management, and interactive audio visualization rendered on Canvas.
+
+The application is built with React, Web Audio API, and Tailwind CSS. It uses browser audio processing capabilities to analyze sound data during playback and display dynamic waveforms in real time. The project can be extended with free music APIs such as Free Music Archive or Jamendo API for browsing and loading audio content.
+
+**Links:**
+
+* [GitHub Repository](https://github.com/wuliiao/harmony-hub)
+
+</details>
+
+---
+
+## [![Certificates](certificates.png)](https://github.com/wuliiao)
+
+- **EF SET English Certificate (C1)**  
+  Date: June 2026  
+  Accreditation ID: 68/100 (C1)  
+  Verify: https://cert.efset.org/ru/zUa2mP
 
 ---
 
