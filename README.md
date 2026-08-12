@@ -57,18 +57,6 @@
 
 ## [![Projects](projects.png)](https://github.com/wuliiao)
 
-<details>
-<summary><strong>mf-lab</strong> — Django web platform for laboratory work</summary>
-<br>
-
-Web application for organizing and completing university laboratory work. The project includes courses, tasks, student groups, user roles, lab attempts, formula-based calculations, result tables, charts, and report export.
-
-Built with Django, HTML templates, SQLite, custom calculation logic, and DOCX/PDF report generation tools.
-
-**Links:**
-
-* [GitHub Repository](https://github.com/romanov73/mf-lab)
-
 </details>
 
 <details>
