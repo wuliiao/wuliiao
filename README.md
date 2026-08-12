@@ -90,6 +90,8 @@ The application is built with React, Web Audio API, and Tailwind CSS. It uses br
 
 ---
 
+[![Footer](footer.png)](https://github.com/wuliiao)
+
 ## Contacts
 
 <p align="center">
