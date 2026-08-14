@@ -60,7 +60,7 @@
 </details>
 
 <details>
-<summary><strong>harmony-hub</strong> — Music player with a real-time audio visualizer</summary>
+<summary><strong>prism</strong> — Music player with a real-time audio visualizer</summary>
 <br>
 
 Harmony Hub is a frontend music player for uploading, organizing, and playing tracks with a real-time sound wave visualizer. The project focuses on custom playback controls, playlist management, and interactive audio visualization rendered on Canvas.
